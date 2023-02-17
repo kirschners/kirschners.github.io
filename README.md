@@ -1,31 +1,14 @@
-# Services
+# Kirschners GmbH
 
-## Design & Architecture Consulting
+Founded in 2014 in Bietigheim-Bissingen, Germany
 
-We support you in your Product Design & Architecture evolution. Our promise is a solid and extensible software design, based on well-known and established industry standards and vendor independent.
-Our support can boost your project bootstrap or improve your existing system. Acting as Full Service provider or togehter with your existing team, we are capable of improving your process, productivity and system. Try us ...
+We provide consulting services for our customers in their domain.
+Anaylysing your requirements and providing a lean and simple solution is our expertise.
 
-## Design, System, Architecture, Code and DevOps Reviews
+Our support reaches from Hardware consulting for self-hosting in-house solutions up to cloud based microservice architectures in commercial cloud environments.
 
-We offer Reviews on all Areas of the Software Development Cycle. From Software Architecture up to DevOps implementation. 
+The software architecture and development expertise allows us to provide you with a vendor independent, free and open-source software based product and solution on all Operating Systems.
 
-# Principles
+From Rich GUI Desktop applications to rest-based microservice APIs we are able to create easy, maintenable solutions with a complete proof-of-performace for your each requirements.
 
-The following principles are the key driving forces in our daily work!
-
-## Sustainability
-Our ultimate goal is to create software that is robust, extensible and maintaible over years. Software evolution is the way of building systems that last for decades. As strategies for this goal we promote some strict software development principles.
-Modularity, API first and semantic versioning are the essentials.
-
-## FOSS - Free Open Source Software
-Whereever possible we are using FOSS software. This allows you to benefit from existing robust software packages.
-And beyond this you can extend, debug & fix or switch the software or library.
-
-## DevOps and Automation
-Avoid any tidious, repeating manual tasks during the whole software development life-cycle. Automation is the key for a continuous sucessful extension of functionality. A major goal of DevOps must be the complete automation from checkin to deployment in production. We offer solutions on different technology stacks to reach this goal.
-
-## Testing
-Testing in NOT for showing the absence of errors. Testing assures that the requested functionalities are still working within your product. So you should at least create a test automation setup for all the usage scenarions your software must support. We can support you in creation of test beds and selection of tools for a robust and extensible test environment.
-
-## Platform independent
-Freedom of choice for the OS during development and operation is nowadays feasible. We support you in setup and operation of development, build and operation environment on windows, linux and mac operating systems and different cpu architectures (intel|arm).
+Get in touch if you want to know more...
